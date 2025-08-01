@@ -3,9 +3,9 @@
   flex-wrap: wrap;
 }
 .items {
-    border: 1px solid black;
-    padding: 2%;
-    margin: 15px;
+  border: 1px solid black;
+  padding: 2%;
+  margin: 15px;
 }
 .flower {
   font-size: 50px;
