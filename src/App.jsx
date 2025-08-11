@@ -6,8 +6,9 @@ export default function App() {
   return <>
   <div>
     <div>app</div>
-    <FlowerButtons />
+    <FlowerButtons>
     <Cart/>
+    </FlowerButtons>
   </div>
 
   </>;
